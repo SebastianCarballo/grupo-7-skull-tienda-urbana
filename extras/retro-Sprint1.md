@@ -2,10 +2,10 @@
 
 ## Comenzar a hacer
 
--
--
--
--
+- Dailys más seguidas
+- Manejar mejor las fechas
+- Respetar la opinión del otro
+- 
 -
 
 ## Hacer más

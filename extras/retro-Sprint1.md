@@ -18,11 +18,11 @@
 
 ## Continuar haciendo
 
--
--
--
--
--
+- Fomentar las deciciones grupales
+- Seguir comunicandonos
+- Seguir trabajando de la manera en que lo estamos haciendo
+- Seguir aportando ideas
+- Seguir preguntando en grupo
 
 ## Hacer menos
 
@@ -34,8 +34,8 @@
 
 ## Dejar de hacer
 
--
--
+- Omitir asignar las tarjetas en trello
+- Dejar las cosas para último momento
 -
 -
 -
